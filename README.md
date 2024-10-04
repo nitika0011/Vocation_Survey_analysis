@@ -1,10 +1,11 @@
 # Vocation_Survey_analysis
 #Vocation Survey Analysis with Power BI
+
 Project Objectives:
 Understand industry trends: Analyze the distribution of respondents across various industries to identify emerging sectors and potential growth areas.
 Assess career satisfaction: Explore factors influencing job satisfaction, such as current roles, salary levels, and work-life balance.
 Evaluate job market dynamics: Gain insights into job-seeking intentions, salary expectations, and preferences for onsite or remote work to understand the current state of the labor market.
-#Key Metrics and Visualizations:
+Key Metrics and Visualizations:
 Industry Distribution: Create a pie chart or bar chart to visualize the percentage of respondents in different industries.
 Current Roles: Use a bar chart or word cloud to represent the most common job titles and their frequency.
 Salary Analysis: Develop a histogram or box plot to analyze salary distributions across industries and roles.
